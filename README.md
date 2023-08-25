@@ -1,6 +1,6 @@
 [![MasterHead](https://thumbs.dreamstime.com/b/python-programming-language-programing-workflow-abstract-algorithm-concept-virtual-screen-200850656.jpg)
 <h1 align="center">Hi 👋, I'm Yusif Həzrətli</h1>
-<h3 align="center">l am frontend developer f</h3>
+<h3 align="center">l am frontend developer </h3>
 
 - 🔭 My project [AY GROUP AGENCY](https://www.instagram.com/ay.group.agency/)
 
