@@ -10,7 +10,7 @@
 <p align="left">
 
 <a href="https://instagram.com/ay.group.agency" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ay.group.agency" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@yusifhezretli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ay group agency" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@aygroupcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ay group agency" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
