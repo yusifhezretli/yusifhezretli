@@ -5,7 +5,7 @@
 
 ###
 
-<img align="right" height="220" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  />
+<img align="right" height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  />
 
 ###
 
@@ -38,6 +38,7 @@
 ###
 
 <div align="left">
+<a href="https://instagram.com/yusifhezretli1" target="blank">  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /> </a> 
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
