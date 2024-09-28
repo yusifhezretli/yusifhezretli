@@ -5,7 +5,7 @@
 
 ###
 
-<img align="right" height="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  />
+<img align="right" height="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  />
 
 ###
 
